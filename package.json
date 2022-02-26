@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "create-react-app": "^1.2.1",
+    "vite": "^2.8.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.7",
+    "tailwindcss": "^3.0.23"
+  }
+}
